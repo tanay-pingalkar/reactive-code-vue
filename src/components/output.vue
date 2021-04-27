@@ -19,5 +19,6 @@ div {
   height: 92vh;
   overflow: scroll;
   padding: 2px;
+  color: black;
 }
 </style>
